@@ -33,6 +33,6 @@ This was my first time using CNN algorithm. It is really amusing to find the wid
 [Ben Roshan](https://www.linkedin.com/in/benroshan100/) |)
 
 ## Credits
-- A huge shout-out to both the kaggle dataset [DigitMNIST](https://www.kaggle.com/c/digit-recognizer) &  [FashionMNIST](https://www.kaggle.com/zalando-research/fashionmnist)
+- A huge shout-out to both the kaggle dataset [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 
